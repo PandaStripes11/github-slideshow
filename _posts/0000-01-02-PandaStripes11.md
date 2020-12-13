@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"I like pandas, but I strongly dislike bunnies"
 Use the left arrow to go back!
